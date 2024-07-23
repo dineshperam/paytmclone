@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar a{
+    vertical-align: middle;
+    padding: 2%;
+    margin-left: 2%;
+    padding-top: 3%;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 17px;
+}
+.navbar {
+    margin: 2% 3% 0 3%;
+}
+.btn{
+    background-color: rgb(58, 162, 247);
+    justify-content: center;
+    border: none;
+    border-radius: 24px;
+    font-weight: bold;
+    color: white;
+    padding: 0.8%;
+    font-size: 17px;
+}
+.btn:hover{
+    background-color: blue;
+}
+.wallet{
+    background-color: azure;
+    text-align: center;
+    padding: 0.5%;
+}
+.sec2{
+    display:flex;
+    flex-direction: row;
+    margin: 5% 0;
+}
+.sec2one{
+    margin-left: 6%;
+    width: 100%;
+}
+.sec2one img{
+    width: 15%;
+}
+.sec2one h1{
+    margin-top: 5%;
+    font-size: 54px;
+}
+.sec2one p{
+    margin-top: 5%;
+    font-size: 25px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 45px;
+    padding: 2% 4% 2% 4%;
+    font-weight: bold;
+    margin-top: 6%;
+    font-size:18px ;
+}
+.btn2:hover{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+}
+.sec3{
+    background-color: rgb(79, 219, 251);
+}
+.sec3 h1{
+    font-weight: bold;
+    color: white;
+    margin-left: 3%;
+    padding-top: 3%;
+    font-size: 37px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:2%;
+    padding: 2%;
+    padding-bottom: 7%;
+}
+.icons div p{
+    color: white;
+    width: 6%;
+    font-size: 19px;
+    font-weight:500 ;
+}
+.sec4{
+    background-color: rgb(63, 113, 251);
+}
+.sec4 h1{
+    font-weight: bold;
+    color: white;
+    margin-left: 3%;
+    padding-top: 3%;
+    font-size: 37px;
+}
+
+.sec5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5%;
+
+}
+.sec5one{
+    width: 45%;
+    background-color: aliceblue;
+    padding: 2%;
+    border-radius: 20px;
+}
+.sec5one h1{
+    font-size: 40px;
+    margin:4% 0 6% 0;
+}
+.sec5one small{
+    font-weight: 700;
+    font-size: 20px;
+}
+.sec5one .car{
+    width: 90%;
+    margin-top: 4%;
+}
+
+.iconsbus{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:2%;
+    padding: 2%;
+    padding-bottom: 7%;
+}
+.iconsbus div p{
+    color: black;
+    width: 50%;
+    font-size: 19px;
+    font-weight:500 ;
+}
+.sec6 h1{
+    font-weight: bold;
+    color: black;
+    margin-left: 3%;
+    padding-top: 3%;
+    font-size: 37px;
+}
+.sec6one h2{
+    margin-top: 10%;
+}
+.sec6one a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
